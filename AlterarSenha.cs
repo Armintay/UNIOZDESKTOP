@@ -1,8 +1,7 @@
 ﻿using Microsoft.Data.SqlClient;
 using System;
-// ... (outros 'usings' do .NET)
 using System.Windows.Forms;
-// ...
+
 
 namespace UNIOZDESKTOP
 {
